@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15c79b4b.chunk.css",
+    "main.js": "/static/js/main.912f7e49.chunk.js",
+    "main.js.map": "/static/js/main.912f7e49.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7174ef73.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7174ef73.js.map",
+    "static/css/2.25de45e0.chunk.css": "/static/css/2.25de45e0.chunk.css",
+    "static/js/2.467fa6be.chunk.js": "/static/js/2.467fa6be.chunk.js",
+    "static/js/2.467fa6be.chunk.js.map": "/static/js/2.467fa6be.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.25de45e0.chunk.css.map": "/static/css/2.25de45e0.chunk.css.map",
+    "static/css/main.15c79b4b.chunk.css.map": "/static/css/main.15c79b4b.chunk.css.map",
+    "static/js/2.467fa6be.chunk.js.LICENSE.txt": "/static/js/2.467fa6be.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/kra3.591c72bb.jpg": "/static/media/kra3.591c72bb.jpg",
+    "static/media/logo.eea71631.png": "/static/media/logo.eea71631.png",
+    "static/media/mo.bf519ff7.png": "/static/media/mo.bf519ff7.png",
+    "static/media/myimage1.2e031823.png": "/static/media/myimage1.2e031823.png",
+    "static/media/person.09c5c2ca.svg": "/static/media/person.09c5c2ca.svg",
+    "static/media/wed2.efa0eb14.png": "/static/media/wed2.efa0eb14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7174ef73.js",
+    "static/css/2.25de45e0.chunk.css",
+    "static/js/2.467fa6be.chunk.js",
+    "static/css/main.15c79b4b.chunk.css",
+    "static/js/main.912f7e49.chunk.js"
+  ]
+}
